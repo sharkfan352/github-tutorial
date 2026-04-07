@@ -1,1 +1,1 @@
-"Hello! This is my new project."  
+"Hello! This is my new project" 
